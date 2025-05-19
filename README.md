@@ -2,7 +2,8 @@
 ## Lyle Jason Smal
 
 ### Career Counselling  
-![Career Counselling](CareerDevelopment.png)  
+![image](https://github.com/user-attachments/assets/f145cd1d-5fe0-495d-9cb9-5ac3db8bba69)
+
 *Reflection*  
 - **S:** I completed a Career Counselling course to explore potential career paths aligned with my personal goals.  
 - **T:** My objective was to identify careers that match my strengths and values.  
@@ -12,7 +13,8 @@
 ---
 
 ### Skills and Interests  
-![Skills And Interests](SkillsAndInterests.png)  
+![image](https://github.com/user-attachments/assets/2e42f56b-2398-4cf0-b2fe-e570b8c4ebd9)
+
 *Reflection*  
 - **S:** I took the Skills and Interests course to better understand my abilities and what motivates me.  
 - **T:** The task involved identifying key skills and interests that align with career opportunities.  
@@ -22,7 +24,8 @@
 ---
 
 ### Personality Assessment  
-![Personality Assessment](PersonalityAssessment.png)  
+![image](https://github.com/user-attachments/assets/112fbde8-617b-4280-be1d-eaac7f2c703d)
+
 *Reflection*  
 - **S:** I completed a Personality Assessment course to learn how my personality influences my career choices.  
 - **T:** The goal was to assess my personality type and understand its fit in various work environments.  
@@ -32,7 +35,8 @@
 ---
 
 ### Create A CV  
-![Create A CV](CreateACV.png)  
+![image](https://github.com/user-attachments/assets/6fab3fb0-92d1-4054-8c63-c29fe8ac08e2)
+
 *Reflection*  
 - **S:** I completed a course on creating an effective CV to improve how I present myself to employers.  
 - **T:** I needed to draft a professional CV that accurately reflects my skills and experience.  
@@ -41,8 +45,9 @@
 
 ---
 
-### CV Submission  
-![CV Submission](CVSubmission.png)  
+### CV Submission 
+![image](https://github.com/user-attachments/assets/807c20bc-dd03-4a29-83d4-bd6586d005a1)
+
 [Lyle-Smal-CV.pdf](https://github.com/user-attachments/files/20303151/Lyle-Smal-CV.pdf)
 
 *Reflection*  
